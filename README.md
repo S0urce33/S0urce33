@@ -77,7 +77,7 @@
 <table>
    <tr>
       <td>
-         <img src = "">
+         <img src = "Captura de ecrã 2024-08-13 204240.png">
       </td>
    </tr>
 </table>
