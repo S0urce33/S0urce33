@@ -14,7 +14,7 @@
       </td>
    </tr>
 </table>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Byakuya091)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Byakuya091)](https://git.io/streak-stats)
 <pre>
   /root
   |
