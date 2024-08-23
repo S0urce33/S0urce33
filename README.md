@@ -14,6 +14,7 @@
       </td>
    </tr>
 </table>
+![Byakuya091 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byakuya091)]
 <pre>
   /root
   |
