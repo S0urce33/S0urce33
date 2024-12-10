@@ -8,7 +8,7 @@
 <table>
    <tr>
       <td style = "max-width: 50%">
-         <img src = " " alt= "" style = "max-width: 200%">
+         <img src = "https://mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif" alt= "" style = "max-width: 200%">
       </td>
    </tr>
 </table>
