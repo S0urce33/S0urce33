@@ -14,9 +14,8 @@
    </tr>
 </table>
 <div>
-   <a href="https://my.calcs.quest/u/903?ref=903" title="GoncaloRamos&apos;s MyCalcs profile">
-  <img width="350px" height="19px" src="https://my.calcs.quest/userbar/903?style=dark" srcset="https://my.calcs.quest/userbar/903?style=dark&amp;supersize=1 2x" alt="GoncaloRamos&apos;s MyCalcs userbar">
-</a>
+   <a href="https://my.calcs.quest/u/903?ref=903" title="GoncaloRamos&apos;s MyCalcs profile"><img width="350px" height="19px" src="https://my.calcs.quest/userbar/903?style=dark" srcset="https://my.calcs.quest/userbar/903?style=dark&amp;supersize=1 2x" alt="GoncaloRamos&apos;s MyCalcs userbar"></a>
+    <a href="https://www.planet-casio.com/Fr"><img src="https://www.planet-casio.com/images/bannieres/boutonpc.png" alt="Planet Casio" /></a>
 </div>
 <div>
    <a href="https://codeforces.com/profile/goncaloramos741"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white", alt=""></a>
