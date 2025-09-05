@@ -36,7 +36,7 @@
   |
   |──/os
   |   |── /Linux
-  |   |      |──Kali Linux;
+  |   |      |──Kali Linux / Gentoo Linux;
   |   |── /Microsoft Windows
   |          |──Windows 11 Home with WSL (Debian and Ubuntu);
   |
