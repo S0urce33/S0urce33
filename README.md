@@ -32,7 +32,7 @@
   /root
   |
   |── /bio
-  |      |──he/him - Portuguese - (pt/pt, spanish and english): Studying to be a Software Engineer;  |            |
+  |      |──they/them - Portuguese - (pt/pt, spanish and english): Studying to be a Software Engineer;  |            |
   |
   |──/os
   |   |── /Linux
